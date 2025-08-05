@@ -28,7 +28,7 @@ export default function Header() {
         <Link href="/" className="mr-10 md:mr-20">
           <Image
             src="/logo-text.png"
-            alt="Pixxel Logo"
+            alt="Pixxeloor Logo"
             className="min-w-24 object-cover"
             width={96}
             height={24}
@@ -50,7 +50,7 @@ export default function Header() {
               Pricing
             </Link>
             <Link
-              href="#contact"
+              href="https://noor-abdullah.vercel.app/"
               className="text-white font-medium transition-all duration-300 hover:text-cyan-400 cursor-pointer"
             >
               Contact

@@ -11,7 +11,7 @@ import { Toaster } from "sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Pixxel",
+  title: "Pixxeloor",
   description: "Professional image editing powered by AI",
 };
 
