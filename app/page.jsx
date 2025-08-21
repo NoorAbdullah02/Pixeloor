@@ -76,7 +76,7 @@ const HeroSection = () => {
                   { icon: "✂️", label: "Crop" },
                   { icon: "📐", label: "Resize" },
                   { icon: "🎨", label: "Adjust" },
-                  { icon: "🤖", label: "AI Tools" },
+                  { icon: "🤖", label: "AI Tools" },           
                 ].map((tool, index) => (
                   <div
                     key={index}
