@@ -27,7 +27,7 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="mr-10 md:mr-20">
           <Image
-            src="/logo-text.png"
+            src="/logo-text.svg"
             alt="Pixxeloor Logo"
             className="min-w-24 object-cover"
             width={96}
