@@ -43,9 +43,11 @@ const HeroSection = () => {
                 Start Creating
               </Button>
             </Link>
+            <Link href="https://noor-abdullah.vercel.app/pixxeloor.html">
             <Button variant="glass" size="xl">
               Watch Demo
             </Button>
+            </Link>
           </div>
         </div>
 
